@@ -1,0 +1,77 @@
+body
+{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    text-align: center;
+    width: 100%;
+    border: 1px solid black;
+}
+img
+{
+    width: 50px;
+    border-radius: 50%;
+}
+section
+{
+    height: 550px;
+    width: 100%;
+    margin: 10px;
+    border: 1px solid black;
+}
+.container 
+{
+    text-align: center;
+    border: 1px solid black;
+}
+.lista li 
+{
+    border: 1px solid black;
+    width: 100%;
+    text-align: left;
+}
+p
+{
+    border: 1px solid black;
+    height: 100px;
+}
+h1
+{
+    border: 1px solid black;
+    text-align: center;
+    height: 50x;
+}
+.final
+{
+    overflow-y: scroll;
+    border: 1px solid black;
+    height: 60px;
+}
+.side
+{
+    overflow-y: scroll;
+    border: 1px solid black;
+}
+ul
+{
+    height: 60px;
+}
+.card
+{
+    width: 100%;
+}
+ol
+{
+    border: 1px solid black;
+}
+.tabela
+{
+    overflow-y: scroll;
+}
+.geral
+{
+    height: 100%;
+}
